@@ -1,6 +1,7 @@
 # forGeekBrains
 (add comments for GitRepo)
 ## Список уровней модели OSI ##
+
 * Прикладной
 * Приложений
 * Представлений
@@ -12,6 +13,7 @@
 
 :open_mouth: 
 
+<<<<<<< HEAD
 ## Часто используемые протоколы передачи данных
 
 
@@ -24,3 +26,13 @@
 *HTTP/S* ![HTTPS](https://soyhorizonte.com/wp-content/uploads/2022/01/http-vs-https-by-soyhorizonte.jpg)
 
 *SSH* ![SSH](https://cdn.worldvectorlogo.com/logos/ssh.svg)
+=======
+## Наиболее распространённые протоколы транспортного уровня 
+
+** UDP
+** TCP
+
+:smiley:
+>>>>>>> 3be0ec8db8a28a76e8635919714ee8a8868cb833
+
+:blush:
