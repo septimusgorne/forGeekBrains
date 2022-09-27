@@ -33,6 +33,15 @@
 ** TCP
 
 :smiley:
->>>>>>> 3be0ec8db8a28a76e8635919714ee8a8868cb833
+>>>>>>> 
 
 :blush:
+
+...
+# Видео снежного барса
+
+[![видео](https://scientificrussia.ru/images/c/29mc-large.jpg)](https://www.youtube.com/watch?v=75AHug3twow)
+
+...
+*Использование html-тегов*
+## **new tag <br> ТЭГ**
